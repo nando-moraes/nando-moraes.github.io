@@ -10,7 +10,7 @@ img { width: 100%; height: auto; display: block }
 input, button, textarea, select { font: inherit }
  /* ================= ENDS ================ */
 
- body { background-color: lightcyan }
+ body { background-color: antiquewhite }
 
 /* Desktops */
 @media (min-width: 768px) {
@@ -30,19 +30,20 @@ h1 {
     font-weight: normal;
     letter-spacing: -2px;
     margin-bottom: 32px;
-    color: blue;
+    color: brown;
+
 }
 
 h2 {
     font-size: 36px;
     margin-bottom: 4px;
-    color: blue;
+    color: brown;
 }
 
 h3 {
     font-size: 24px;
     margin-bottom: 4px;
-    color: blue;
+    color: brown;
 }
 
 p {
@@ -52,3 +53,5 @@ p {
     margin-bottom: 20px;
     color: darkslateblue;
 }
+
+a { color: brown; }
